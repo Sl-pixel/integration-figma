@@ -1,0 +1,149 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Montserrat";
+    color: white;
+    
+}
+
+
+section {
+    margin: 87PX;
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    top: 1492.29px;
+    left: 122px;
+
+
+    
+}
+
+body {
+    margin: 50px;
+    background: linear-gradient(90deg, #3E4044 0%, #28292F 100%);
+}
+
+header {
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+    width:487px ;
+    height: 30px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+ul, .nav-icons {
+    list-style: none;
+    display: flex;
+    gap: 10PX;
+}
+
+.button1{
+    background: #EF32D9;
+    height: 50px;
+    width: 172px;
+    border: none;
+}
+
+.box2 {
+    position: absolute;
+    left: 200px;
+}
+
+.box3 {
+    height: 119px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    right: 0px;
+    bottom: 300px;
+}
+
+.box4 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    top: 655.29px;  
+    left: 942px;
+}
+
+.blanc, .blue, .rouge {
+    back
+}
+
+
+
+
+
+hr {
+    background: #EF32D9;
+    border: none;
+    width: 149px;
+    height: 9px;
+   
+}
+
+ul1, ul2, Ul3 {
+    list-style: none;
+}
+
+h1 {
+    color: #89fffd;
+    font-weight: 800;
+    font-size: 161px;
+
+}
+
+span { 
+    font-size: 41px;
+    font-weight: 300;
+    line-height: 49.98px;
+    text-align: left;
+    text-decoration-skip-ink:none;
+}
+
+h2 {
+    size: 41px;
+}
+
+h3 {
+    color: #89FFFD;
+    font-weight: 500;
+    font-size: 63px;
+}
+
+/* box section1 */
+
+#Best-Sales {
+    gap: 20px;
+}
+
+.article {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+    
+footer {
+    width: 1196px;
+    height: 269px;
+    top: 2549.29px;
+    left: 122px;
+    gap: 0px;
+}
+
+
+.legal {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    gap: 20px;
+ }
