@@ -9,16 +9,14 @@
 
 
 section {
+    margin: 50px;
     Width: 1083px;
-    height: 957px;
+    height: 600px;
     padding: 40px;
     display: flex;
     flex-direction: row;
     top: 1492.29px;
     left: 122px;
-
-
-    
 }
 
 body {
